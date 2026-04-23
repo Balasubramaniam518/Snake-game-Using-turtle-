@@ -1,4 +1,3 @@
-
 ---
 
 # Snake Game (Python Turtle)
